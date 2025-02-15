@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 my name is Ashmita Maharana. 
 I study in NIST University.
 I am doing B.Tech. 
@@ -6,7 +6,7 @@ hello world.
 I am changed by ashmita branch
 changed for github
 changed again on canditate git 
-=======
 Iam changed by git hub editor
 hello
->>>>>>> 35fbd37e295fa8a010256b450330685aca91d633
+
+mere pass imp msg hai 
